@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zeddkhan03&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddkhan03&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### Mantra of my life
-<img src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3MqVjzV33GSWl9msG6MzMbIQfQPKj4D2oTg&usqp=CAU/"width="512px"/>
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zeddkhan03&icon=0&color=0)](https://visitcount.itsvg.in)
