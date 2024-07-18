@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m currently improving my skills in Python and C.<br>🌱 I’m doing my BTech in CSE.<br>📫You can approach me on linkedin: https://www.linkedin.com/in/suhani-sharma-04a546272/.<br>💬 Ask me about my interests.<br>
+🌱 I am a second-year BTech CSE student deeply interested in cybersecurity and web development.<br>👀 Currently, I am focusing on refining my skills in Python, C, and HTML.<br>📫You can approach me on linkedin: https://www.linkedin.com/in/suhani-sharma-04a546272/.<br>
 
 
 ## 🌐 Socials:
