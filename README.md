@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am a second-year BTech CSE student deeply interested in cybersecurity and web development.<br>👀 Currently, I am focusing on refining my skills in Python, C, and HTML.<br>📫You can approach me on linkedin: https://www.linkedin.com/in/suhani-sharma-04a546272/.<br>
+🌱 I am a second-year BTech CSE student deeply interested in cybersecurity and web development.<br>💻I have a strong passion for coding and aspire to pursue cybersecurity in the future.<br>👀 Currently, I am focusing on refining my skills in Python, C, and HTML.<br>📫You can approach me on linkedin: https://www.linkedin.com/in/suhani-sharma-04a546272/.<br>
 
 
 ## 🌐 Socials:
@@ -12,7 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SuhaniSharma1309&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaniSharma1309&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### QUOTE OF THE DAY
+Code is like humor. When you have to explain it, it’s bad. – Cory House
 
 
 
