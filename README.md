@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am a second-year BTech CSE student deeply interested in cybersecurity and web development.<br>💻I have a strong passion for coding and aspire to pursue cybersecurity in the future.<br>👀 Currently, I am focusing on refining my skills in Python, C, and HTML.<br>📫You can approach me on linkedin: https://www.linkedin.com/in/suhani-sharma-04a546272/.<br>
+🌱 I am a second-year BTech CSE student passionate about UI/UX and web development.<br>👀 Currently, I am focusing on refining my skills in Python, Java, and CSS.<br>📫You can approach me on linkedin: https://www.linkedin.com/in/suhani-sharma-04a546272/.<br>
 
 
 ## 🌐 Socials:
