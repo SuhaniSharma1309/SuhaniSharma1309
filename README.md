@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I am a second-year BTech CSE student passionate about UI/UX and web development.<br>👀 Currently, I am focusing on refining my skills in Python, Java, and CSS.<br>📫You can approach me on linkedin: https://www.linkedin.com/in/suhani-sharma-04a546272/.<br>
-
+🌱 I am a pre-final year computer science student passionate about technology, coding, and innovative problem-solving.<br>👀 I’m continuously expanding my skills in areas like AI, web development, and software engineering to prepare for a career in the tech industry.<br>📫You can approach me on linkedin: https://www.linkedin.com/in/suhani-sharma-04a546272/.<br>
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhani-sharma-04a546272/)
